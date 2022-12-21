@@ -1,0 +1,432 @@
+[
+    {
+        "id": "1",
+        "category_id": "c1",
+        "name": "HTML",
+        "discription": "Well come to our Front-End Development program. Here we teach you complete Front-end Development for build your carear",
+        "price": "4.54",
+        "Duration": "15",
+        "image": "/images/Image/html.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "2",
+        "category_id": "c1",
+        "name": "CSS",
+        "discription": "Well come to our Front-End Development program. Here we teach you complete Front-end Development for build your carear",
+        "price": "3.56",
+        "Duration": "15",
+        "image": "/images/Image/css.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "3",
+        "category_id": "c1",
+        "name": "Tailwind",
+        "discription": "Well come to our Front-End Development program. Here we teach you complete Front-end Development for build your carear",
+        "price": "5.26",
+        "Duration": "10",
+        "image": "/images/Image/tailwind.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "4",
+        "category_id": "c1",
+        "name": "javaScript",
+        "discription": "Well come to our Front-End Development program. Here we teach you complete Front-end Development for build your carear",
+        "price": "7.65",
+        "Duration": "35",
+        "image": "/images/Image/javascript.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "5",
+        "category_id": "c1",
+        "name": "ES6",
+        "discription": "Well come to our Front-End Development program. Here we teach you complete Front-end Development for build your carear",
+        "price": "5.65",
+        "Duration": "5",
+        "image": "/images/Image/es6.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "6",
+        "category_id": "c1",
+        "name": "React",
+        "discription": "Well come to our Front-End Development program. Here we teach you complete Front-end Development for build your carear",
+        "price": "12.65",
+        "Duration": "30",
+        "image": "/images/Image/React.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "7",
+        "category_id": "c2",
+        "name": "Node.js",
+        "discription": "Well come to our Back-End Development program. Here we teach you complete Back-End Development for build your carear",
+        "price": "12.25",
+        "Duration": "20",
+        "image": "/images/Image/node.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "8",
+        "category_id": "c2",
+        "name": "MongoDB",
+        "discription": "Well come to our Back-End Development program. Here we teach you complete Back-End Development for build your carear",
+        "price": "11.25",
+        "Duration": "15",
+        "image": "/images/Image/mongodb.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "9",
+        "category_id": "c2",
+        "name": "Express.js",
+        "discription": "Well come to our Back-End Development program. Here we teach you complete Back-End Development for build your carear",
+        "price": "7.25",
+        "Duration": "15",
+        "image": "/images/Image/express.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "10",
+        "category_id": "c2",
+        "name": "goLang",
+        "discription": "Well come to our Back-End Development program. Here we teach you complete Back-End Development for build your carear",
+        "price": "12.52",
+        "Duration": "30",
+        "image": "/images/Image/Golang.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "11",
+        "category_id": "c3",
+        "name": "MongoDB",
+        "discription": "Well come to our MERN-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "7.56",
+        "Duration": "25",
+        "image": "/images/Image/mongodb.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "12",
+        "category_id": "c3",
+        "name": "Express.js",
+        "discription": "Well come to our MERN-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "6.65",
+        "Duration": "15",
+        "image": "/images/Image/express.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "13",
+        "category_id": "c3",
+        "name": "React",
+        "discription": "Well come to our MERN-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "8.25",
+        "Duration": "30",
+        "image": "/images/Image/React.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "14",
+        "category_id": "c3",
+        "name": "Node.js",
+        "discription": "Well come to our MERN-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "7.25",
+        "Duration": "20",
+        "image": "/images/Image/node.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "15",
+        "category_id": "c4",
+        "name": "HTML",
+        "discription": "Well come to our Full-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "5.52",
+        "Duration": "15",
+        "image": "/images/Image/html.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "16",
+        "category_id": "c4",
+        "name": "CSS",
+        "discription": "Well come to our Full-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "5.25",
+        "Duration": "15",
+        "image": "/images/Image/css.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "17",
+        "category_id": "c4",
+        "name": "Tailwind",
+        "discription": "Well come to our Full-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "7.25",
+        "Duration": "10",
+        "image": "/images/Image/tailwind.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "18",
+        "category_id": "c4",
+        "name": "javaScript",
+        "discription": "Well come to our Full-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "12.5",
+        "Duration": "35",
+        "image": "/images/Image/javascript.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "19",
+        "category_id": "c4",
+        "name": "ES6",
+        "discription": "Well come to our Full-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "3.52",
+        "Duration": "5",
+        "image": "/images/Image/es6.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "20",
+        "category_id": "c4",
+        "name": "React",
+        "discription": "Well come to our Full-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "8.52",
+        "Duration": "30",
+        "image": "/images/Image/React.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "21",
+        "category_id": "c4",
+        "name": "goLang",
+        "discription": "Well come to our Full-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "9.99",
+        "Duration": "30",
+        "image": "/images/Image/Golang.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "22",
+        "category_id": "c4",
+        "name": "Express.js",
+        "discription": "Well come to our Full-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "3.65",
+        "Duration": "15",
+        "image": "/images/Image/express.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "23",
+        "category_id": "c4",
+        "name": "Node.js",
+        "discription": "Well come to our Full-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "3.25",
+        "Duration": "20",
+        "image": "/images/Image/node.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "24",
+        "category_id": "c4",
+        "name": "MongoDB",
+        "discription": "Well come to our Full-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "price": "6.99",
+        "Duration": "25",
+        "image": "/images/Image/mongodb.png",
+        "ratting": "4.5"
+    },
+    {
+        "id": "25",
+        "category_id": "c5",
+        "name": "Web Design",
+        "discription": "Well come to our Skill Development program. Here we will help you to develop your skills for build your carear",
+        "price": "22.25",
+        "Duration": "60",
+        "image": "/images/Image/Web-Design.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "26",
+        "category_id": "c5",
+        "name": "Logo Design",
+        "discription": "Well come to our Skill Development program. Here we will help you to develop your skills for build your carear",
+        "price": "60",
+        "Duration": "1",
+        "image": "/images/Image/logo-design.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "27",
+        "category_id": "c5",
+        "name": "T-Shirt Design",
+        "discription": "Well come to our Skill Development program. Here we will help you to develop your skills for build your carear",
+        "price": "40",
+        "Duration": "1",
+        "image": "/images/Image/t-shirt-design.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "28",
+        "category_id": "c5",
+        "name": "Data Entry",
+        "discription": "Well come to our Skill Development program. Here we will help you to develop your skills for build your carear",
+        "price": "5.55",
+        "Duration": "30",
+        "image": "/images/Image/data_entry.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "29",
+        "category_id": "c5",
+        "name": "Facebook Marketing",
+        "discription": "Well come to our Skill Development program. Here we will help you to develop your skills for build your carear",
+        "price": "15.23",
+        "Duration": "30",
+        "image": "/images/Image/fb_marketing.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "30",
+        "category_id": "c6",
+        "name": "Professional English",
+        "discription": "Well come to our Learning Language program. Here we we help you to learn deffarant languge to comunicate with the world",
+        "price": "9.56",
+        "Duration": "35",
+        "image": "/images/Image/Proffesional-en.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "32",
+        "category_id": "c6",
+        "name": "English vocabulary",
+        "discription": "Well come to our Learning Language program. Here we we help you to learn deffarant languge to comunicate with the world",
+        "price": "11.25",
+        "Duration": "30",
+        "image": "/images/Image/vocabulary.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "33",
+        "category_id": "c6",
+        "name": "English Grammar",
+        "discription": "Well come to our Learning Language program. Here we we help you to learn deffarant languge to comunicate with the world",
+        "price": "11.25",
+        "Duration": "30",
+        "image": "/images/Image/english-grammer.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "34",
+        "category_id": "c6",
+        "name": "English Writing",
+        "discription": "Well come to our Learning Language program. Here we we help you to learn deffarant languge to comunicate with the world",
+        "price": "10.00",
+        "Duration": "30",
+        "image": "/images/Image/english-write.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "35",
+        "category_id": "c6",
+        "name": "IELTS",
+        "discription": "Well come to our Learning Language program. Here we we help you to learn deffarant languge to comunicate with the world",
+        "price": "12.50",
+        "Duration": "25",
+        "image": "/images/Image/IELTS.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "36",
+        "category_id": "c7",
+        "name": "HSC English",
+        "discription": "Well come to our HSC Exam Preparation program. Here we teach you for your HSC exam to make Heigher Score",
+        "price": "6.25",
+        "Duration": "65",
+        "image": "/images/Image/hsc_english_course.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "37",
+        "category_id": "c7",
+        "name": "HSC Final Model Test",
+        "discription": "Well come to our HSC Exam Preparation program. Here we teach you for your HSC exam to make Heigher Score",
+        "price": "6.35",
+        "Duration": "30",
+        "image": "/images/Image/hsc22mt.jpeg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "38",
+        "category_id": "c7",
+        "name": "HSC Bangla",
+        "discription": "Well come to our HSC Exam Preparation program. Here we teach you for your HSC exam to make Heigher Score",
+        "price": "4.99",
+        "Duration": "30",
+        "image": "/images/Image/HSC-Bangla.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "39",
+        "category_id": "c7",
+        "name": "HSC ICT",
+        "discription": "Well come to our HSC Exam Preparation program. Here we teach you for your HSC exam to make Heigher Score",
+        "price": "7.5",
+        "Duration": "30",
+        "image": "/images/Image/HSC-BE-ICT.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "40",
+        "category_id": "c7",
+        "name": "HSC MCQ",
+        "discription": "Well come to our HSC Exam Preparation program. Here we teach you for your HSC exam to make Heigher Score",
+        "price": "4.50",
+        "Duration": "20",
+        "image": "/images/Image/HSC-MCQ.jpeg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "41",
+        "category_id": "c7",
+        "name": "HSC Short Question",
+        "discription": "Well come to our HSC Exam Preparation program. Here we teach you for your HSC exam to make Heigher Score",
+        "price": "9.45",
+        "Duration": "25",
+        "image": "/images/Image/HSC-short.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "42",
+        "category_id": "c8",
+        "name": "SSC Accounting & Finance",
+        "discription": "Well come to our SSC Exam Preparation program. Here we teach you for your SSC exam to make Heigher Score",
+        "price": "8.99",
+        "Duration": "45",
+        "image": "/images/Image/SSC-Acc-Fin.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "43",
+        "category_id": "c8",
+        "name": "SSC Last Moment",
+        "discription": "Well come to our SSC Exam Preparation program. Here we teach you for your SSC exam to make Heigher Score",
+        "price": "5.99",
+        "Duration": "30",
+        "image": "/images/Image/SSC-last22.jpg",
+        "ratting": "4.5"
+    },
+    {
+        "id": "44",
+        "category_id": "c8",
+        "name": "SSC Test Paper",
+        "discription": "Well come to our SSC Exam Preparation program. Here we teach you for your SSC exam to make Heigher Score",
+        "price": "5.99",
+        "Duration": "30",
+        "image": "/images/Image/SSC-Test-paper.jpg",
+        "ratting": "4.5"
+    }
+]

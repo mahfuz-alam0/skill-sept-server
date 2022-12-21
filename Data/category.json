@@ -1,0 +1,51 @@
+[
+    {
+        "category_id": "c1",
+        "name": "Front-End Development",
+        "description": "Well come to our Front-End Development program. Here we teach you complete Front-end Development for build your carear",
+        "image": "/images/Course/Front-end.png"
+        
+    },
+    {
+        "category_id": "c2",
+        "name": "Back-End Development",
+        "description": "Well come to our Back-End Development program. Here we teach you complete Back-End Development for build your carear",
+        "image": "/images/Course/backend.png"
+    },
+    {
+        "category_id": "c3",
+        "name": "MERN-Stack Development",
+        "description": "Well come to our MERN-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "image": "/images/Course/mern-stack.png"
+    },
+    {
+        "category_id": "c4",
+        "name": "Full-Stack Development",
+        "description": "Well come to our Full-Stack Development program. Here we teach you complete MERN-Stack Development for build your carear",
+        "image": "/images/Course/Full-stack.png"
+    },
+    {
+        "category_id": "c5",
+        "name": "Skill Development",
+        "description": "Well come to our Skill Development program. Here we will help you to develop your skills for build your carear",
+        "image": "/images/Course/Skill-Development.png"
+    },
+    {
+        "category_id": "c6",
+        "name": "Learning Language",
+        "description": "Well come to our Learning Language program. Here we we help you to learn deffarant languge to comunicate with the world",
+        "image": "/images/Course/languege.png"
+    },
+    {
+        "category_id": "c7",
+        "name": "HSC Preparation",
+        "description": "Well come to our HSC Exam Preparation program. Here we teach you for your HSC exam to make Heigher Score",
+        "image": "/images/Course/HSC.png"
+    },
+    {
+        "category_id": "c8",
+        "name": "SSC Preparation",
+        "description": "Well come to our SSC Exam Preparation program. Here we teach you for your SSC exam to make Heigher Score",
+        "image": "/images/Course/SSC-23.png"
+    }
+]
